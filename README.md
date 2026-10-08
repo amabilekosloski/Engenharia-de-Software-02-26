@@ -71,3 +71,13 @@ Meses depois, o jardim se torna um ponto de encontro da comunidade. Nina e Ravi 
 - **Estação suspensa:** local de trabalho e moradia inicial de Nina e Ravi.
 - **Superfície do planeta:** ambiente de ruínas e comunidades ameaçadas pela extração de recursos.
 - **Jardim:** espaço de descoberta, memória e reconstrução, que se torna o novo lar do casal.
+
+## Planejamento e gerenciamento do projeto
+
+O Product Backlog está registrado nas Issues do GitHub. As tarefas
+são acompanhadas no quadro Kanban, e as sprints são organizadas
+por Milestones.
+
+- [Quadro Kanban](https://github.com/users/amabilekosloski/projects/2)
+- [Product Backlog — Issues](https://github.com/amabilekosloski/Engenharia-de-Software-02-26/issues)
+- [Sprints — Milestones](https://github.com/amabilekosloski/Engenharia-de-Software-02-26/milestones)
