@@ -7,7 +7,13 @@
 
 ---
 
-## 1. Ferramenta escolhida
+## Atualização da PB13
+
+A versão atual adota **mangá colorido**, com rostos estilizados, olhos expressivos, contornos marcados e sombras simples. O uso de mangá não significa retirar as cores. Os registros iniciais de Gemini abaixo são históricos; os documentos PB09 e PB11 registram uso posterior de ChatGPT.
+
+As fichas e os prompts de referência foram alinhados aos protagonistas adultos e aos uniformes de manutenção. As roupas casuais das gravações e do desfecho são exceções intencionais à regra de uniformes.
+
+## 1. Ferramenta escolhida inicialmente
 
 **Nome:** Gemini (Google)
 
@@ -115,7 +121,7 @@ Gerar uma folha de referência para cada cenário e reaproveitá-la nas cenas se
 ## 6. Diretrizes de consistência
 
 1. Gerar primeiro a folha de referência de cada personagem e **reaproveitar essas imagens** como referência em todas as cenas.
-2. Usar sempre o mesmo prompt base de estilo (seção 4), sem alterações.
+2. Usar sempre o mesmo prompt base de estilo (seção 3), sem alterações.
 3. Manter a regra de cores: verde para Nina, azul para Ravi.
 4. Gerar de 3 a 4 variações de cada quadro e escolher a que melhor mantém a aparência dos personagens.
 5. Guardar os prompts que funcionaram para reaproveitar nas PB06, PB08 e PB09.

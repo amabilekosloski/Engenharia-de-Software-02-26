@@ -37,7 +37,7 @@ Criar uma história em quadrinhos de ficção científica e distopia que explore
 
 ## Estrutura inicial da história em quadrinhos
 
-A narrativa será organizada inicialmente em seis etapas. A quantidade de páginas e quadros será definida durante a elaboração do roteiro.
+A narrativa está organizada em seis etapas e foi desenvolvida em 24 quadros, distribuídos em oito páginas, além da capa.
 
 ### 1. Apresentação — A vida na estação
 
@@ -81,3 +81,58 @@ por Milestones.
 - [Quadro Kanban](https://github.com/users/amabilekosloski/projects/2)
 - [Product Backlog — Issues](https://github.com/amabilekosloski/Engenharia-de-Software-02-26/issues)
 - [Sprints — Milestones](https://github.com/amabilekosloski/Engenharia-de-Software-02-26/milestones)
+
+
+## Leitura da HQ
+
+A versão disponível contém capa e oito páginas em imagens. A leitura segue da esquerda para a direita e de cima para baixo.
+
+> A revisão PB13 identificou ajustes de texto, atribuição de falas e continuidade ainda pendentes nas imagens. Consulte o [relatório de revisão](docs/pb13-revisao.md). A aprovação final da equipe ainda não foi registrada.
+
+![Capa de Ecos de Nós](imagens/capa-ecos.jpeg)
+
+| Parte | Arquivo |
+|---|---|
+| Capa | [Abrir capa](imagens/capa-ecos.jpeg) |
+| Página 1 | [A missão](imagens/sequencia-inicial/pagina01.jpeg) |
+| Página 2 | [O jardim](imagens/sequencia-inicial/pagina02.jpeg) |
+| Página 3 | [Além da rota](imagens/paginas-montadas/pagina03.png) |
+| Página 4 | [O que foi apagado](imagens/paginas-montadas/pagina04.png) |
+| Página 5 | [A ordem](imagens/paginas-montadas/pagina05.png) |
+| Página 6 | [De volta à estação](imagens/paginas-montadas/pagina06.png) |
+| Página 7 | [A ruptura](imagens/paginas-montadas/pagina07.png) |
+| Página 8 | [O lugar de voltar](imagens/paginas-montadas/pagina08.png) |
+
+### PDF final
+
+O arquivo PDF da PB14 não está presente na versão revisada. Até sua exportação e publicação, a HQ pode ser lida pelas páginas acima. O link do PDF deverá ser incluído aqui quando o arquivo existir.
+
+## Roteiros e documentação
+
+- [PB04 — Roteiro dos quadros 1 a 6](PB04_Roteiro_Quadrinhos_Iniciais.md)
+- [PB07 — Roteiro dos quadros 7 a 24](PB07_Roteiro_Demais_Cenas.md)
+- [Fichas dos personagens](fichas-personagens.md)
+- [Estilo visual](estilo-visual.md)
+- [Prompts de referência](prompts-referencias.md)
+- [PB06 — Prompts da sequência inicial](docs/pb06-prompts.md)
+- [Prompts das demais cenas](prompts-cenas.md)
+- [PB09 — Registro de geração das cenas restantes](docs/pb09-prompts.md)
+- [PB11 — Prompts de montagem das páginas 3 a 8](docs/pb11-prompts.md)
+- [PB13 — Relatório de revisão](docs/pb13-revisao.md)
+- [PB15 — Registro da atualização do README](docs/pb15-documentacao.md)
+
+## Produção visual e créditos
+
+A HQ utiliza traço de mangá colorido, personagens estilizados, contornos definidos e sombreamento em cel-shading. Nina utiliza verde e Ravi azul durante as cenas de manutenção; roupas casuais aparecem nas gravações e no desfecho.
+
+Os registros do projeto documentam o uso de **Gemini** nos testes e etapas iniciais e de **ChatGPT** na geração das cenas restantes e na montagem. A capa também identifica o uso de ChatGPT. Os prompts históricos foram preservados; o guia visual registra a orientação atual de mangá colorido.
+
+**Integrantes:** Amábile Evangelista Kosloski; Mariana Alexandre Alves Amourim; Pedro Marques Machado.
+
+## Situação da revisão e da entrega
+
+- Capa e oito páginas: disponíveis.
+- Revisão técnica PB13: realizada, com pendências registradas.
+- Aprovação coletiva: a registrar pela equipe após os ajustes.
+- Exportação em PDF PB14: pendente na versão analisada.
+- Documentação PB15: atualizada; inclusão do link do PDF depende da PB14.

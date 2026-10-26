@@ -1,19 +1,31 @@
-# Fichas dos Personagens
+# Fichas dos personagens de Ecos de Nós
 
-## 1. Nina
-* **Características Físicas:** Cabelos cacheados castanhos, olhos escuros, pele parda, estatura média.
-* **Roupas / Estilo:** Camiseta verde, calça jeans escura, tênis branco e mochila amarela.
-* **Personalidade:** Curiosa, analítica, determinada e focada em meio ambiente e sustentabilidade.
-* **Motivações:** Resolver o problema de descarte de lixo na escola e conscientizar a comunidade.
-* **Prompt Base para IA:** 
-  > Young brown-skinned Brazilian girl, shoulder-length curly dark brown hair, dark eyes, wearing a casual green t-shirt, dark blue jeans, white sneakers, carrying a yellow backpack, vibrant art style, character reference sheet.
+Estas fichas foram alinhadas na PB13 ao roteiro e à identidade visual das páginas. Substituem as descrições escolares anteriores.
 
----
+## Nina
 
-## 2. Ravi
-* **Características Físicas:** Cabelo curto liso preto, olhos castanhos, pele clara, alto.
-* **Roupas / Estilo:** Casaco de moletom azul com capuz, calça jogger cinza e tênis esportivo.
-* **Personalidade:** Prático, criativo, bem-humorado e tecnológico.
-* **Motivações:** Criar soluções tecnológicas inovadoras para ajudar a equipe no projeto.
-* **Prompt Base para IA:** 
-  > Young light-skinned boy, short straight black hair, brown eyes, wearing a blue hoodie jacket, grey jogger pants, athletic shoes, modern appearance, vibrant art style, character reference sheet.
+- **Aparência:** adulta jovem brasileira, pele parda, olhos escuros, cabelo cacheado castanho-escuro até os ombros e estatura média.
+- **Vestuário principal:** macacão de manutenção verde-musgo, bolsos e cinto de ferramentas, botas e luvas de trabalho.
+- **Vestuário casual:** peças verdes nas gravações; roupas casuais no desfecho.
+- **Personalidade:** curiosa, analítica, determinada e sensível à preservação da vida.
+- **Motivações:** compreender as gravações, recuperar sua história, proteger a comunidade e escolher seu futuro com Ravi.
+- **Conflito:** perceber que seu trabalho ajudava a destruir o lugar onde vivia.
+- **Prompt base:** Young adult Brazilian woman, brown skin, shoulder-length curly dark brown hair, dark eyes, moss-green maintenance jumpsuit, tool pockets and belt, sturdy boots, black work gloves, expressive stylized color manga character, clean outlines, cel shading.
+
+## Ravi
+
+- **Aparência:** adulto jovem, pele clara, olhos castanhos, cabelo curto liso preto e estatura alta.
+- **Vestuário principal:** macacão de manutenção azul com detalhes cinza, botas, luvas e cinto de ferramentas.
+- **Vestuário casual:** peças azuis nas gravações; roupa casual no desfecho.
+- **Personalidade:** prático, criativo, observador, bem-humorado e interessado em tecnologia.
+- **Motivações:** descobrir a verdade com Nina, interromper a extração e preservar os registros do passado.
+- **Conflito:** utilizar seus conhecimentos de manutenção para desfazer o sistema que ajudava a sustentar.
+- **Prompt base:** Tall young adult man, light skin, short straight black hair, brown eyes, blue maintenance jumpsuit with grey details, sturdy boots, black gloves and tool belt, expressive stylized color manga character, clean outlines, cel shading.
+
+## Moradora da superfície
+
+Adulta de cabelos escuros com mechas grisalhas, presos, roupa de trabalho em tons terrosos, colete verde e lenço avermelhado. Reconhece o casal, apresenta a comunidade e ajuda a isolar os controles. Manter sua aparência nas páginas 3 a 8.
+
+## Central
+
+Autoridade remota que transmite ordens e oculta a existência dos sobreviventes. Sua fala deve ser identificada por balões eletrônicos, sem caudas que a confundam com falas dos protagonistas.
